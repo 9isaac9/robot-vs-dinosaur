@@ -1,8 +1,9 @@
 import random
+
 from ai import Ai
 from human import Human
 
-class Player:
+class Player():
     def __init__(self):
         self.player_choice 
         self.player_score

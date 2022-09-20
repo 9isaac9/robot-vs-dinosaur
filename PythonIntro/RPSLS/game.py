@@ -1,5 +1,5 @@
 
-from player import Player
+
 
 class Game:
     def __init__(self):
@@ -9,6 +9,7 @@ class Game:
     def run_game(self):
         self.greeting()
         self.rules_of_game()
+        
       
 
     def greeting(self):
@@ -31,10 +32,10 @@ class Game:
 
         print(input("How many players 1,2,or 3 for a surprise?  "))
 
-        print("Choose 0 for Rock.")
-        print("Choose 1 for Paper")
-        print("Choose 2 for Scissors")
-        print("Choose 3 for Lizard")
-        print("choose 4 for Spock")
+        print("Choose Rock")
+        print("Choose Paper")
+        print("Choose Scissors")
+        print("Choose Lizard")
+        print("choose Spock")
 
-        
+p
