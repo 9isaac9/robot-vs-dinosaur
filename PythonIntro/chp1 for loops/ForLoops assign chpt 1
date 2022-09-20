@@ -1,0 +1,50 @@
+# for word in range(5):
+#     print("Hello")    
+    
+
+# for i in range(0,11):
+#     print(i)
+
+# for i in range(11):
+#     print(10 - i)
+
+# for devCodeCamp in range(int(input("How many times you wwant devCodeCamp to print "))):
+#     print("devCodeCamp")
+
+# NFL= "Packers"    
+# for char in "Packers":
+#     print(char)
+
+# for i in range(101):
+#     if i % 3 == 0 and i % 5 == 0:
+#         print("fizzbuzz")
+#     elif i % 3 == 0:        
+#         print("fizz")
+#     elif i % 5 == 0:
+#         print("buzz")
+    
+
+
+# i = 0
+# while i<5:
+#     print("Hello")
+#     i+=1
+
+
+
+
+
+
+
+# is_instructor_awesome = not(True)
+# while is_instructor_awesome == True:
+#     print("great")
+# if is_instructor_awesome == False:
+#     print("your bad")
+
+
+def add_two_numbers():
+    results = 1 + 2
+    print(results)
+
+add_two_numbers()
